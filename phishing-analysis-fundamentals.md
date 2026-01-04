@@ -19,10 +19,11 @@ The objective of this exercise is to understand the structure of phishing emails
 - Fear
 
 ## 5. Evidence
+Evidence captured from TryHackMe Phishing Analysis Fundamentals room.
 <img width="692" height="785" alt="image" src="https://github.com/user-attachments/assets/b65aa671-ad90-4b8f-b00f-1a3d0b4658ee" />
 <img width="703" height="877" alt="image" src="https://github.com/user-attachments/assets/ccfff8c4-aa5e-4b68-95e7-fbc27fdca6f0" />
 <img width<img width="693" height="702" alt="image" src="https://github.com/user-attachments/assets/bdb9d0ae-703d-495f-88b7-555f7766d479" />
-="697" height="758" alt="image" src="https://github.com/user-attachments/assets/bed6423d-47e7-4151-9621-543aa2b8d336" />
+<img width="692" height="785" alt="image" src="https://github.com/user-attachments/assets/745825e8-7901-4438-aae8-ba8fdc90b163" />
 
 (Insert screenshots here)
 
