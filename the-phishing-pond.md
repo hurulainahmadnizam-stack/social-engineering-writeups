@@ -19,6 +19,10 @@ The objective of this exercise is to identify phishing emails and differentiate 
 - Curiosity
 
 ## 5. Evidence
+<img width="693" height="642" alt="Screenshot 2026-01-04 at 11 14 35 PM" src="https://github.com/user-attachments/assets/4545f72e-3336-4353-8cab-285b8ac32573" />
+
+<img width="688" height="482" alt="Screenshot 2026-01-04 at 11 14 52 PM" src="https://github.com/user-attachments/assets/918d65cb-685d-444f-8674-d1383d687241" />
+
 (Insert screenshots of phishing email and malicious links)
 
 ## 6. Impact if Victim Falls for the Attack
